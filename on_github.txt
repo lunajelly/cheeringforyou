@@ -1,3 +1,10 @@
 at https://lunajelly.github.io/cheeringforyou/
 
 https://github.com/lunajelly/cheeringforyou
+
+
+branched on git
+* dev
+  public
+  trunk
+  remotes/origin/public
